@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1841,
+    "name": "Fist Of Destruction",
+    "code": "fistofdestruction",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1841&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1840,
+    "name": "SIX SIX SIX",
+    "code": "sixsixsix",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1840&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1839,
+    "name": "Chaos Crew 2",
+    "code": "chaoscrew2",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1839&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1838,
+    "name": "Duel at Dawn",
+    "code": "duelatdawn",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1838&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1808,
+    "name": "Gladius: Death Or Glory",
+    "code": "gladiusdeathorglory",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1808&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1778,
+    "name": "Klowns",
+    "code": "klowns",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1778&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1777,
+    "name": "FIRE MY LASER",
+    "code": "firemylaser",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1777&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1776,
+    "name": "Wings of Horus",
+    "code": "wingsofhorus",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1776&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1775,
+    "name": "Rise of Ymir",
+    "code": "riseofymir",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1775&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1773,
+    "name": "Tai the Toad",
+    "code": "taithetoad",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1773&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1772,
+    "name": "Cloud Princess",
+    "code": "cloudprincess",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1772&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1771,
+    "name": "Twisted Lab",
+    "code": "twistedlab",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1771&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1770,
+    "name": "Magic Piggy",
+    "code": "magicpiggy",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1770&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1769,
+    "name": "Octo Attack",
+    "code": "octoattack",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1769&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1768,
+    "name": "Benny The Beer",
+    "code": "bennythebeer",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1768&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1767,
+    "name": "Pug Life",
+    "code": "puglife",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1767&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1766,
+    "name": "Get the CHEESE",
+    "code": "getthecheese",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1766&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1731,
+    "name": "Reign of Rome",
+    "code": "reignofrome",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1731&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1727,
+    "name": "The Library",
+    "code": "thelibrary",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1727&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1725,
+    "name": "Infernus",
+    "code": "infernus",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1725&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1723,
+    "name": "Chocolate Rocket",
+    "code": "chocolaterocket",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1723&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1721,
+    "name": "Coop Clash",
+    "code": "coopclash",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1721&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1718,
+    "name": "Fighter Pit",
+    "code": "fighterpit",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1718&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1714,
+    "name": "Wishbringer",
+    "code": "wishbringer",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1714&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1710,
+    "name": "Crystal Robot",
+    "code": "crystalrobot",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1710&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1708,
+    "name": "8-Bit Quest",
+    "code": "8bitquest",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1708&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1702,
+    "name": "Sticky Candyland",
+    "code": "stickycandyland",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1702&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1700,
+    "name": "Strength of Hercules",
+    "code": "strengthofhercules",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1700&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1696,
+    "name": "FRKN Bananas",
+    "code": "frknbananas",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1696&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1692,
+    "name": "Le Viking",
+    "code": "leviking",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1692&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1684,
+    "name": "Marlin Masters",
+    "code": "marlinmasters",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1684&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1678,
+    "name": "Phoenix DuelReels",
+    "code": "phoenixduelreels",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1678&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1672,
+    "name": "Speed Crash",
+    "code": "speedcrash",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1672&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1669,
+    "name": "Hounds of Hell",
+    "code": "houndsofhell",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1669&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1665,
+    "name": "Blaze Buddies",
+    "code": "blazebuddies",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1665&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1663,
+    "name": "Valhalla: Wild Winter",
+    "code": "valhallawildwinter",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1663&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1660,
+    "name": "Chicken Man",
+    "code": "chickenman",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1660&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1658,
+    "name": "Merlin's Mania",
+    "code": "merlinsmania",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1658&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1656,
+    "name": "Amazing Miceketeers",
+    "code": "amazingmiceketeers",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1656&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1654,
+    "name": "Clumsy Cowboys",
+    "code": "clumsycowboys",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1654&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1652,
+    "name": "Super Twins",
+    "code": "supertwins",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1652&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1650,
+    "name": "Ze Zeus",
+    "code": "zezeus",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1650&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1649,
+    "name": "Xmas Drop",
+    "code": "xmasdrop",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1649&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1648,
+    "name": "Hand of Anubis",
+    "code": "handofanubis",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1648&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1647,
+    "name": "Cash Crew",
+    "code": "cashcrew",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1647&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1646,
+    "name": "Stormforged",
+    "code": "stormforged",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1646&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1644,
+    "name": "2 Wild 2 Die",
+    "code": "2wild2die",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1644&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1639,
+    "name": "Empress of the Shadows",
+    "code": "empressoftheshadows",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1639&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1631,
+    "name": "Desert Temple",
+    "code": "deserttemple",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1631&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1629,
+    "name": "Limbo",
+    "code": "limbo",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1629&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1611,
+    "name": "Donut Division",
+    "code": "donutdivision",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1611&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1607,
+    "name": "Jawsome Pirates",
+    "code": "jawsomepirates",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1607&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1599,
+    "name": "Age of Seth",
+    "code": "ageofseth",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1599&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1597,
+    "name": "Ancient Paws",
+    "code": "ancientpaws",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1597&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1595,
+    "name": "Dice",
+    "code": "dice",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1595&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1589,
+    "name": "Lucky Multifruit",
+    "code": "luckymultifruit",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1589&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1577,
+    "name": "Clover Club",
+    "code": "cloverclub",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1577&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1575,
+    "name": "Gladiator Legends",
+    "code": "gladiatorlegends",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1575&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1574,
+    "name": "Divine Drop",
+    "code": "divinedrop",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1574&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1573,
+    "name": "Evil Eyes",
+    "code": "evileyes",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1573&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1569,
+    "name": "Old Gun",
+    "code": "oldgun",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1569&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1567,
+    "name": "Pickle Bandits",
+    "code": "picklebandits",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1567&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1565,
+    "name": "Le Pharaoh",
+    "code": "lepharaoh",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1565&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1561,
+    "name": "Snow Slingers",
+    "code": "snowslingers",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1561&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1557,
+    "name": "Shaolin Master",
+    "code": "shaolinmaster",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1557&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1553,
+    "name": "Pirate Bonanza",
+    "code": "piratebonanza",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1553&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1550,
+    "name": "RIP City",
+    "code": "ripcity",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1550&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1548,
+    "name": "Le Bandit",
+    "code": "lebandit",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1548&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1547,
+    "name": "Wanted Dead or a Wild",
+    "code": "wanteddeadorawild",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1547&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1542,
+    "name": "Cup Heroes",
+    "code": "cupheroes",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1542&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1541,
+    "name": "Shadow Treasure",
+    "code": "shadowtreasure",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1541&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1539,
+    "name": "Shadow Strike",
+    "code": "shadowstrike",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1539&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1533,
+    "name": "Donny Dough",
+    "code": "donnydough",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1533&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1529,
+    "name": "Holy Heist",
+    "code": "holyheist",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1529&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1527,
+    "name": "Junkyard Kings",
+    "code": "junkyardkings",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1527&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1525,
+    "name": "Space Zoo",
+    "code": "spacezoo",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1525&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1523,
+    "name": "Mines",
+    "code": "mines",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1523&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1513,
+    "name": "Wild Dojo Strike",
+    "code": "wilddojostrike",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1513&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1507,
+    "name": "Barrel Bonanza",
+    "code": "barrelbonanza",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1507&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1499,
+    "name": "Piggy Cluster Hunt",
+    "code": "piggyclusterhunt",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1499&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1497,
+    "name": "Keep'em",
+    "code": "keepem",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1497&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1489,
+    "name": "Dragon's Domain",
+    "code": "dragonsdomain",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1489&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1488,
+    "name": "Densho",
+    "code": "densho",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1488&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1485,
+    "name": "Slayers Inc",
+    "code": "slayersinc",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1485&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1477,
+    "name": "Orb of Destiny",
+    "code": "orbofdestiny",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1477&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1473,
+    "name": "The Cursed King",
+    "code": "thecursedking",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1473&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1466,
+    "name": "Rotten",
+    "code": "rotten",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1466&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1465,
+    "name": "Beam Boys",
+    "code": "beamboys",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1465&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1463,
+    "name": "Life and Death",
+    "code": "lifeanddeath",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1463&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1455,
+    "name": "Jelly Slice",
+    "code": "jellyslice",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1455&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1446,
+    "name": "Baccarat",
+    "code": "baccarat",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1446&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1445,
+    "name": "Dawn of Kings",
+    "code": "dawnofkings",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1445&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1437,
+    "name": "Cursed Crypt",
+    "code": "cursedcrypt",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1437&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1433,
+    "name": "Dorks of the Deep",
+    "code": "dorksofthedeep",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1433&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1425,
+    "name": "Bouncy Bombs",
+    "code": "bouncybombs",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1425&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1421,
+    "name": "Twenty-One",
+    "code": "twentyone",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1421&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1415,
+    "name": "Merlin's Alchemy",
+    "code": "merlinsalchemy",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1415&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1413,
+    "name": "Blademaster",
+    "code": "blademaster",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1413&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1407,
+    "name": "Rusty & Curly",
+    "code": "rustycurly",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1407&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1395,
+    "name": "Dark Summoning",
+    "code": "darksummoning",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1395&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1391,
+    "name": "Colors",
+    "code": "colors",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1391&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1385,
+    "name": "Blocks",
+    "code": "blocks",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1385&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1378,
+    "name": "Dork Unit",
+    "code": "dorkunit",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1378&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1377,
+    "name": "Mafia Clash",
+    "code": "mafiaclash",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1377&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1375,
+    "name": "Feel The Beat",
+    "code": "feelthebeat",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1375&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1371,
+    "name": "Fireborn",
+    "code": "fireborn",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1371&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1367,
+    "name": "Immortal Desire",
+    "code": "immortaldesire",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1367&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1347,
+    "name": "Eye of the Panda",
+    "code": "eyeofthepanda",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1347&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1343,
+    "name": "Vending Machine",
+    "code": "vendingmachine",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1343&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1339,
+    "name": "Lines",
+    "code": "lines",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1339&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1333,
+    "name": "Hi-Lo",
+    "code": "hilo",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1333&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1327,
+    "name": "Wheel",
+    "code": "wheel",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1327&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1317,
+    "name": "Drop'em",
+    "code": "dropem",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1317&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1308,
+    "name": "Mighty Masks",
+    "code": "mightymasks",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1308&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1304,
+    "name": "Sleepy Grandpa",
+    "code": "sleepygrandpa",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1304&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1300,
+    "name": "Plinko",
+    "code": "plinko",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1300&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1293,
+    "name": "Commander of Tridents",
+    "code": "commanderoftridents",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1293&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1285,
+    "name": "Stack'em",
+    "code": "stackem",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1285&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1282,
+    "name": "Beast Below",
+    "code": "beastbelow",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1282&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1278,
+    "name": "Mayan Stackways™",
+    "code": "mayanstackways",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1278&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1274,
+    "name": "Fear The Dark",
+    "code": "fearthedark",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1274&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1270,
+    "name": "Ronin Stackways™",
+    "code": "roninstackways",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1270&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1266,
+    "name": "Cursed Seas",
+    "code": "cursedseas",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1266&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1262,
+    "name": "Keep 'em Cool",
+    "code": "keepemcool",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1262&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1258,
+    "name": "Lord Venom",
+    "code": "lordvenom",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1258&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1254,
+    "name": "Bloodthirst",
+    "code": "bloodthirst",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1254&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1240,
+    "name": "Temple of Torment",
+    "code": "templeoftorment",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1240&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1232,
+    "name": "Fred's Food Truck",
+    "code": "fredsfoodtruck",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1232&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1228,
+    "name": "Frank's Farm",
+    "code": "franksfarm",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1228&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1224,
+    "name": "Gronk's Gems",
+    "code": "gronksgems",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1224&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1216,
+    "name": "Book of Time",
+    "code": "bookoftime",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1216&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1208,
+    "name": "Break Bones",
+    "code": "breakbones",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1208&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1204,
+    "name": "Alpha Eagle",
+    "code": "alphaeagle",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1204&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1200,
+    "name": "Fruit Duel",
+    "code": "fruitduel",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1200&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1196,
+    "name": "Undead Fortune",
+    "code": "undeadfortune",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1196&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1192,
+    "name": "Born Wild",
+    "code": "bornwild",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1192&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1188,
+    "name": "Forest Fortune",
+    "code": "forestfortune",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1188&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1184,
+    "name": "Time Spinners",
+    "code": "timespinners",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1184&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1180,
+    "name": "Summer Scratch",
+    "code": "summerscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1180&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1179,
+    "name": "Buffalo Stack’n’Sync",
+    "code": "buffalostacknsync",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1179&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1171,
+    "name": "Itero",
+    "code": "itero",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1171&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1159,
+    "name": "Boxes",
+    "code": "boxes",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1159&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1153,
+    "name": "Coins",
+    "code": "coins",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1153&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1147,
+    "name": "Double Rainbow",
+    "code": "doublerainbow",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1147&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1143,
+    "name": "Harvest Wilds",
+    "code": "harvestwilds",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1143&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1139,
+    "name": "Stack'em Scratch",
+    "code": "stackemscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1139&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1138,
+    "name": "The Bowery Boys",
+    "code": "theboweryboys",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1138&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1134,
+    "name": "Warrior Ways",
+    "code": "warriorways",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1134&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1130,
+    "name": "King Carrot",
+    "code": "kingcarrot",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1130&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1120,
+    "name": "Joker Bombs",
+    "code": "jokerbombs",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1120&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1113,
+    "name": "Tasty Treats",
+    "code": "tastytreats",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1113&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1112,
+    "name": "Rocket Reels",
+    "code": "rocketreels",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1112&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1111,
+    "name": "Cash Quest",
+    "code": "cashquest",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1111&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1110,
+    "name": "Tiger Scratch",
+    "code": "tigerscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1110&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1109,
+    "name": "Snow Scratcher",
+    "code": "snowscratcher",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1109&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1108,
+    "name": "Spooky Scary Scratchy",
+    "code": "spookyscaryscratchy",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1108&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1107,
+    "name": "Toshi Video Club",
+    "code": "toshivideoclub",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1107&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1095,
+    "name": "Xpander",
+    "code": "xpander",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1095&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1092,
+    "name": "Chaos Crew Scratch",
+    "code": "chaoscrewscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1092&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1091,
+    "name": "Hop'n'Pop",
+    "code": "hopnpop",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1091&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1089,
+    "name": "The Big One",
+    "code": "thebigone",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1089&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1088,
+    "name": "Outlaws Inc.",
+    "code": "outlawsinc",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1088&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1082,
+    "name": "Eggstra Cash",
+    "code": "eggstracash",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1082&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1081,
+    "name": "Frutz",
+    "code": "frutz",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1081&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1080,
+    "name": "The Perfect Scratch",
+    "code": "theperfectscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1080&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1079,
+    "name": "Football Scratch",
+    "code": "footballscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1079&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1073,
+    "name": "Scratch a Million",
+    "code": "scratchamillion",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1073&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1072,
+    "name": "Love Is All You Need",
+    "code": "loveisallyouneed",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1072&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1071,
+    "name": "Mystery Motel",
+    "code": "mysterymotel",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1071&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1070,
+    "name": "Let It Snow",
+    "code": "letitsnow",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1070&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1069,
+    "name": "Cubes 2",
+    "code": "cubes2",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1069&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1066,
+    "name": "Aztec Twist",
+    "code": "aztectwist",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1066&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1065,
+    "name": "Cash Pool",
+    "code": "cashpool",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1065&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1064,
+    "name": "Go Panda",
+    "code": "gopanda",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1064&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1063,
+    "name": "Rat Riches",
+    "code": "ratriches",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1063&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1062,
+    "name": "Crazy Donuts",
+    "code": "crazydonuts",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1062&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1061,
+    "name": "Balloons",
+    "code": "balloons",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1061&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1060,
+    "name": "Shave The Sheep",
+    "code": "shavethesheep",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1060&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1059,
+    "name": "Chaos Crew",
+    "code": "chaoscrew",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1059&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1058,
+    "name": "The Respinners",
+    "code": "therespinners",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1058&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1057,
+    "name": "Cash Scratch",
+    "code": "cashscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1057&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1055,
+    "name": "Cash Compass",
+    "code": "cashcompass",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1055&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1054,
+    "name": "The Bomb",
+    "code": "thebomb",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1054&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1053,
+    "name": "Koi Cash",
+    "code": "koicash",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1053&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1052,
+    "name": "Gold Coins",
+    "code": "goldcoins",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1052&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1051,
+    "name": "Frogs Scratch",
+    "code": "frogsscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1051&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1050,
+    "name": "Break The Ice",
+    "code": "breaktheice",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1050&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1049,
+    "name": "Miami Multiplier",
+    "code": "miamimultiplier",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1049&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1048,
+    "name": "Cubes",
+    "code": "cubes",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1048&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1047,
+    "name": "Scratch'em",
+    "code": "scratchem",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1047&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1046,
+    "name": "Cut The Grass",
+    "code": "cutthegrass",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1046&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1045,
+    "name": "Shave The Beard",
+    "code": "shavethebeard",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1045&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1043,
+    "name": "Om Nom",
+    "code": "omnom",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1043&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1042,
+    "name": "Stick'em",
+    "code": "stickem",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1042&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1039,
+    "name": "Haunted Circus",
+    "code": "hauntedcircus",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1039&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1038,
+    "name": "My Lucky Number",
+    "code": "myluckynumber",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1038&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1034,
+    "name": "Double Salary 1 Year",
+    "code": "doublesalary1year",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1034&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1031,
+    "name": "It's Bananas",
+    "code": "itsbananas",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1031&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1030,
+    "name": "Lucky Number X20 Scratch",
+    "code": "luckynumberx20scratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1030&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1029,
+    "name": "Lucky Number X16 Scratch",
+    "code": "luckynumberx16scratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1029&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1028,
+    "name": "Lucky Numbers x12",
+    "code": "luckynumbersx12",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1028&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1027,
+    "name": "Lucky Number X8",
+    "code": "luckynumberx8",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1027&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1025,
+    "name": "Cash Vault II",
+    "code": "cashvaultii",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1025&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1024,
+    "name": "Cash Vault I",
+    "code": "cashvaulti",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1024&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1023,
+    "name": "Lucky Shot",
+    "code": "luckyshot",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1023&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1022,
+    "name": "Diamond Rush",
+    "code": "diamondrush",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1022&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1021,
+    "name": "Ruby Rush",
+    "code": "rubyrush",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1021&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1020,
+    "name": "Gold Rush",
+    "code": "goldrush",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1020&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1019,
+    "name": "Dream Car Speed",
+    "code": "dreamcarspeed",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1019&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1018,
+    "name": "Dream Car Suv",
+    "code": "dreamcarsuv",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1018&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1017,
+    "name": "Dream Car Urban",
+    "code": "dreamcarurban",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1017&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1016,
+    "name": "Lucky Scratch",
+    "code": "luckyscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1016&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1014,
+    "name": "Happy Scratch",
+    "code": "happyscratch",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1014&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1013,
+    "name": "Prince Treasure",
+    "code": "princetreasure",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1013&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1011,
+    "name": "Queen Treasure",
+    "code": "queentreasure",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1011&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1010,
+    "name": "King Treasure",
+    "code": "kingtreasure",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1010&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1009,
+    "name": "Scratchy Big",
+    "code": "scratchybig",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1009&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1008,
+    "name": "Scratchy",
+    "code": "scratchy",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1008&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1007,
+    "name": "Scratchy Mini",
+    "code": "scratchymini",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1007&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1006,
+    "name": "Express 200",
+    "code": "express200",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1006&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1005,
+    "name": "Express 100",
+    "code": "express100",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1005&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1004,
+    "name": "SCRATCH! Bronze",
+    "code": "scratchbronze",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1004&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1003,
+    "name": "SCRATCH! Silver",
+    "code": "scratchsilver",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1003&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1002,
+    "name": "SCRATCH! Gold",
+    "code": "scratchgold",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1002&partner=stg&mode=demo&token=123"
+  },
+  {
+    "id": 1001,
+    "name": "SCRATCH! Platinum",
+    "code": "scratchplatinum",
+    "url": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?channel=desktop&gameid=1001&partner=stg&mode=demo&token=123"
+  }
+]
