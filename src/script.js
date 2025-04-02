@@ -59,7 +59,7 @@ async function processSlot(i, slotsArr) {
 async function fetchSlots() {
   const slotsArr = [];
   // Approximated games' ids range
-  for (let i = 1841; i >= 1840; i--) {
+  for (let i = 1841; i >= 1001; i--) {
     await processSlot(i, slotsArr);
   }
 
